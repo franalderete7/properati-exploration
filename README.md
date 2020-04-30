@@ -1,5 +1,5 @@
 # Buenos Aires City Real Estate Market Analysis
-This project is a part of the [Acamica Institute].
+This project is a part of the Acamica Institute in Buenos Aires.
 
 #### -- Project Status: [Completed]
 
